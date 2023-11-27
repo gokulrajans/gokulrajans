@@ -3,7 +3,7 @@ Hi 👋 I am Gokulraj Varatharajan
 #### Welcome to my Github page.
  I am a full-time software engineer who is passionate about programming. And currently working as a Front-end web developer in Tata Consultancy Service.
 
-#### I mostly work with Front-end technologies like React, Typescript, etc. I have a little experience with Node.js as well. I am currently learning about Mobile App development.
+#### I mostly work with Front-end technologies like React, Typescript, JavaScript, Redux, Vite, etc. I have a little experience with Node.js as well. I am currently learning about Mobile App development.
 
 - 🔭 I’m currently working on *React.js*.
 - 👯 I’m looking to collaborate on any web development and app development projects
